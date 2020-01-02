@@ -1,2 +1,4 @@
-node_modeules
+
 dist
+node_modules
+.env
